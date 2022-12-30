@@ -1,0 +1,10 @@
+{
+    "require": {
+        "nesbot/carbon": "^1.39"
+    },
+    "config": {
+        "allow-plugins": {
+            "kylekatarnls/update-helper": true
+        }
+    }
+}
